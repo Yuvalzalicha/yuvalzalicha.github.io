@@ -1,53 +1,27 @@
 # Project Disclosure Policy
 
-The public portfolio uses an allowlist. It does not begin with the full internal project inventory and then remove sensitive details. A project or abstraction appears publicly only when the exact public description is appropriate, necessary, and supported.
+This portfolio presents selected public work. It is not a complete inventory of private, academic, commercial, or client-related activity.
 
-Redaction or anonymization does not create publication authority by itself.
+## Public project criteria
 
-## Allowlist criteria
+A project description should be professionally relevant, supported at the stated level, and appropriate for public release.
 
-A public record must satisfy all of the following:
+Academic work may include suitable methods, results, and limitations. Private or client-adjacent work may appear only through a high-level description when that description is appropriate for public use.
 
-- The public purpose is clear and professionally relevant.
-- The title and description are appropriate for external use.
-- The wording does not expose personal, client, partner, commercial, legal, security, credential, or confidential information.
-- The description does not reveal private architecture, internal methods, source locations, operating records, or unpublished performance data.
-- Academic work is separated from independent research ownership and industrial experience.
-- Business and client-adjacent work does not imply authority to publish the underlying project.
-- Private learning systems do not expose course names, providers, syllabi, labs, access details, licensed materials, or internal production methods.
-- Claims remain bounded by the evidence publicly available at the stated level.
+## Information not published
 
-## Publishable
+Private, client-owned, commercially sensitive, security-sensitive, licensed, and restricted academic material is not published. This includes confidential source material, credentials, private implementation details, and unpublished data.
 
-- Academic project names when public identification is appropriate
-- Sanitized academic methods or results suitable for public release
-- Generalized project titles when a narrow abstraction is explicitly appropriate
-- Broad purpose, domain, maturity, role, and transferable skills
-- Restricted-detail summaries with explicit public boundaries
-- Public-safe claim limitations
+## Claim boundaries
 
-## Excluded
-
-- Original names of private business initiatives, product concepts, client systems, and private learning programs
-- Provider names, course names, syllabus structures, private labs, licensed materials, and source-owned course content
-- Client and partner identities, contact details, financial terms, contracts, proposals, pricing, targets, and sales information
-- Credentials, private endpoints, repository paths, internal source data, access configurations, source locations, and storage topology
-- Internal project IDs, department structures, decision ledgers, schedules, operational runbooks, and proprietary methods
-- Agreement-restricted content, mission-specific capabilities, security assumptions, topology, and performance targets
-- Unpublished research data, private academic submissions, advisor correspondence, restricted exam material, and private results
-- Claims of deployment, fabrication, independent research ownership, traction, readiness, or performance not supported at the stated level
-
-## Disclosure labels
-
-- Detailed academic case study
-- Academic public overview
-- Generalized public overview
-- Generalized case study
-- Restricted-detail overview
+- Academic simulation is not presented as fabrication or industrial experience.
+- Course laboratory work is not presented as independent research ownership.
+- Exploratory research is not presented as validated operational performance.
+- Public descriptions do not grant access or rights to underlying private materials.
 
 ## Review rule
 
-Every future addition or material expansion must be reviewed as a new public record. It must not inherit publication authority merely because another project, abstraction, or prior version was approved.
+Each new project description or material expansion requires a separate public-release review.
 
 ## Public contact-data policy
 
