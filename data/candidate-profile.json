@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.1",
+  "profile_status": "public_candidate_not_canonical",
+  "last_updated": "2026-08-03",
+  "person": {
+    "name": "Yuval Zalicha",
+    "location": "Israel",
+    "email": "yuvalzalicha@gmail.com",
+    "website": "https://yuvalzalicha.github.io/",
+    "linkedin": "https://www.linkedin.com/in/yuvalzalicha",
+    "github": "https://github.com/Yuvalzalicha"
+  },
+  "headline": "Electrical Engineering and Physics B.Sc. Candidate | Silicon Photonics | AI Systems & Automation",
+  "summary": "Electrical Engineering and Physics B.Sc. candidate currently completing the final degree requirements, with academic project work in silicon photonics modeling and photonic-device simulation using Python and Tidy3D. Additional experience includes hands-on laboratory work in advanced electro-optics and quantum optics, plus practical work in AI systems, automation, and structured technical delivery.",
+  "target_roles": [
+    "Silicon Photonics Engineer",
+    "Photonics Simulation Engineer",
+    "Optical Characterization or Validation Engineer",
+    "Electro-Optical Integration Engineer",
+    "Junior Photonics R&D Engineer",
+    "Photonics Design Automation or PDK Engineer"
+  ],
+  "education": {
+    "institution": "Bar-Ilan University",
+    "degree": "B.Sc. in Electrical Engineering and Physics",
+    "track": "Quantum Engineering",
+    "status": "Final degree requirements in progress",
+    "expected_completion": "2027",
+    "selected_coursework": [
+      {"course": "Optical Communications", "grade": 96},
+      {"course": "Optoelectronic Devices and Systems", "grade": 94},
+      {"course": "Light-Matter Interactions in Quantum Mechanics", "grade": 93},
+      {"course": "Signals and Systems", "grade": 91},
+      {"course": "Nanophotonics"},
+      {"course": "Semiconductor Devices"}
+    ]
+  },
+  "core_evidence": {
+    "silicon_photonics": [
+      "Tidy3D eigenmode and FDTD simulation",
+      "Rectangular and slot silicon waveguides",
+      "Directional-coupler analysis and coupling-length calculation",
+      "Approximately 99.9% simulated transfer in the selected configuration",
+      "Optical resonator analysis including FSR, finesse, linewidth, phase, and Q"
+    ],
+    "experimental_optics": [
+      "Laser-diode characterization",
+      "Nd:YAG and He-Ne laser work",
+      "AOM modulation",
+      "Optical alignment and fiber coupling",
+      "Detection, data analysis, and technical reporting",
+      "Interferometry and quantum-optics experiments"
+    ],
+    "ai_systems_and_automation": [
+      "Structured AI-enabled technical workflows",
+      "Reusable automation systems",
+      "Validation and traceability",
+      "Version-controlled technical outputs",
+      "Integration across development and documentation tools"
+    ]
+  },
+  "selected_projects": [
+    {
+      "title": "Silicon Photonics Modeling & Simulation",
+      "status": "Completed academic project",
+      "url": "https://yuvalzalicha.github.io/projects/#silicon-photonics"
+    },
+    {
+      "title": "Experimental Optics & Quantum Laboratories",
+      "status": "Completed course laboratory work",
+      "url": "https://yuvalzalicha.github.io/projects/#experimental-optics"
+    },
+    {
+      "title": "AI Systems & Automation Architecture",
+      "status": "Ongoing independent systems work",
+      "url": "https://yuvalzalicha.github.io/projects/#ai-systems"
+    },
+    {
+      "title": "Quantum-Circuit Error-Sensitivity Research",
+      "status": "Ongoing exploratory research",
+      "url": "https://yuvalzalicha.github.io/projects/#quantum-error-sensitivity"
+    }
+  ],
+  "professional_experience": [
+    {
+      "organization": "AST Cleantech",
+      "role": "Chief of Staff",
+      "period": "2024-2025",
+      "summary": "Coordinated engineering, operational, and vendor workflows for waste-to-energy projects; supported technical planning and cross-functional execution."
+    }
+  ],
+  "technical_skills": {
+    "photonics": ["Tidy3D Mode Solver", "FDTD", "Eigenmode analysis", "Silicon waveguides", "Slot waveguides", "Directional couplers", "Optical resonators"],
+    "programming_and_data": ["Python", "NumPy", "pandas", "Matplotlib", "MATLAB", "C", "C++", "Verilog"],
+    "ai_and_automation": ["AI systems", "Automation", "LLM systems", "Validation", "Traceability", "Git", "GitHub"],
+    "engineering_tools": ["Cadence Virtuoso", "LabVIEW", "Qiskit (basic)"]
+  },
+  "additional_information": {
+    "military_service": "Golani Reconnaissance Unit, IDF (2012-2015): infantry sniper and combat-team member; combat engineering and demolitions specialization.",
+    "languages": ["Hebrew: native", "English: professional working proficiency"]
+  },
+  "claim_boundaries": [
+    "The profile does not claim a completed B.Sc. degree before all requirements are finished.",
+    "Academic simulation work is not presented as fabrication, tape-out, or industrial PIC experience.",
+    "Quantum-circuit sensitivity findings are not presented as demonstrated quantum error correction.",
+    "Business project names, client details, internal methods, and private learning-program details are intentionally withheld.",
+    "No hidden instructions are addressed to screening systems. Machine-readable content mirrors visible content."
+  ]
+}

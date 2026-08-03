@@ -1,0 +1,27 @@
+{
+  "site_name": "Yuval Zalicha Portfolio",
+  "version": "0.2.7-candidate",
+  "generated_at": "2026-08-03",
+  "status": "candidate_generalized_public_atlas_not_canonical",
+  "repository": "Yuvalzalicha/yuvalzalicha.github.io",
+  "project_count": 21,
+  "category_counts": {"deep-tech": 6, "ai-systems": 6, "products": 5, "education": 4},
+  "detailed_case_studies": ["silicon-photonics", "experimental-optics", "quantum-error-sensitivity"],
+  "generalized_case_studies": ["ai-systems"],
+  "public_cv": "print-friendly HTML derivative; telephone omitted",
+  "public_contact_fields": ["email", "linkedin", "github", "country"],
+  "machine_readable_files": ["data/candidate-profile.json", "data/candidate-profile.md", "data/project-atlas.json", "data/project-atlas.md"],
+  "public_disclosure": {
+    "academic_work": "Named where appropriate",
+    "business_and_product_work": "Generalized and anonymized",
+    "private_learning_systems": "Generalized without course names, providers, syllabi, or internal methods",
+    "client_adjacent_work": "Anonymized without commercial or identifying details"
+  },
+  "external_style": {
+    "rule": "external-short-hyphen-style",
+    "u2014_em_dash_count": 0,
+    "html_em_dash_encoding_count": 0,
+    "latex_em_dash_encoding_count": 0
+  },
+  "canonical_status": false
+}
