@@ -1,6 +1,5 @@
 # Yuval Zalicha: Public Candidate Profile
 
-**Status:** Candidate profile, not canonical  
 **Location:** Israel  
 **Email:** yuvalzalicha@gmail.com  
 **Website:** https://yuvalzalicha.github.io/  
@@ -69,10 +68,9 @@ Selected academic signals:
 **Chief of Staff, AST Cleantech | 2024-2025**  
 Coordinated engineering, operational, and vendor workflows for waste-to-energy projects; supported technical planning and cross-functional execution.
 
-## Claim boundaries
+## Additional information
 
-- The profile does not claim a completed B.Sc. before all degree requirements are finished.
-- Academic simulation work is not presented as fabrication, tape-out, or industrial PIC experience.
-- Quantum-circuit sensitivity findings are not presented as demonstrated quantum error correction.
-- Business project names, client details, internal methods, and private learning-program details are intentionally withheld.
-- No hidden instructions are addressed to screening systems. This document mirrors visible site content.
+**Military service:** Golani Reconnaissance Unit, IDF (2012-2015): infantry sniper and combat-team member; combat engineering and demolitions specialization.  
+**Languages:** Hebrew: native; English: professional working proficiency.
+
+This document mirrors the public professional profile and selected project information.
