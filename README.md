@@ -1,45 +1,33 @@
-# Yuval Zalicha Portfolio Site v0.2.8 Candidate Deployment
+# Yuval Zalicha Portfolio
 
-Public GitHub Pages portfolio presenting a focused silicon-photonics candidate profile together with a curated public project allowlist.
+Public engineering portfolio focused on silicon photonics, experimental optics, quantum systems, AI systems, automation, and selected technical projects.
 
 ## Public pages
 
 - `index.html`: portfolio home
-- `profile.html`: focused candidate profile
+- `profile.html`: candidate profile
 - `cv.html`: public, print-friendly CV
-- `projects/index.html`: searchable and filterable selected-project atlas
-- `evidence.html`: evidence, limitations, and public allowlist model
-- `projects/*.html`: compatibility redirects to approved case-study anchors
+- `projects/index.html`: selected project atlas
+- `evidence.html`: evidence and claim boundaries
+- `privacy.html`: privacy notice
+- `accessibility.html`: accessibility statement
+- `notice.html`: rights and content notice
 
-## Machine-readable companions
+## Machine-readable sources
 
 - `data/candidate-profile.json`
 - `data/candidate-profile.md`
 - `data/project-atlas.json`
 - `data/project-atlas.md`
 
-## Public allowlist model
+These files mirror the public professional profile and selected project information in formats that can be read by applicant-tracking systems, research tools, and other automated agents.
 
-The public site does not expose a complete internal project inventory.
+## Public scope
 
-- Academic work may be named when public identification is appropriate.
-- Private systems, business initiatives, product concepts, client-adjacent work, and learning programs appear only through approved abstractions or remain omitted.
-- Redaction or anonymization does not create publication authority by itself.
-- Client identities, partner information, course names, providers, syllabi, private methods, commercial details, source locations, operating records, and storage architecture are withheld.
-- Every future addition or material expansion requires a new public-record review.
+This repository presents selected public work. Private, client-owned, commercially sensitive, security-sensitive, licensed, and restricted academic material is not published.
 
-## Wording boundary
+## Contact
 
-Silicon-photonics experience is described as academic project work in modeling and simulation. Hands-on wording is reserved for completed laboratory work in experimental and quantum optics.
-
-## External punctuation standard
-
-All public-facing content follows the external short-hyphen style. Em dashes and their HTML or LaTeX encodings are prohibited.
-
-## Privacy and disclosure
-
-The public site intentionally omits the telephone number, client identities, financial terms, contracts, credentials, internal project IDs, private source locations, restricted technical details, and unsupported claims. Machine-readable files mirror visible content and contain no hidden ranking instructions or hidden project inventory.
-
-## Status
-
-Candidate deployment. Not canonical.
+- Website: https://yuvalzalicha.github.io/
+- LinkedIn: https://www.linkedin.com/in/yuvalzalicha
+- GitHub: https://github.com/Yuvalzalicha
