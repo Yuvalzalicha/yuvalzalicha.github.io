@@ -1,8 +1,4 @@
 {
-  "schema_version": "1.2",
-  "status": "public_allowlist_candidate_not_canonical",
-  "last_updated": "2026-08-03",
-  "inventory_mode": "allowlist",
   "domains": [
     "deep-tech",
     "applied-systems",
@@ -58,7 +54,7 @@
       "disclosure": "Academic public overview",
       "summary": "Academic research and technical synthesis in quantum information.",
       "skills": ["Quantum information", "Research synthesis", "Technical writing"],
-      "boundary": "Private submissions, correspondence, and source-owned material are excluded."
+      "boundary": "Restricted academic source material is not published."
     },
     {
       "id": "nanophotonics-learning",
@@ -70,7 +66,7 @@
       "disclosure": "Academic public overview",
       "summary": "Academic learning and validated study-material production for nanophotonics.",
       "skills": ["Nanophotonics", "Learning systems", "Technical quality"],
-      "boundary": "Instructor-owned source material, restricted exam solutions, and private academic files are not published."
+      "boundary": "Restricted academic source material is not published."
     },
     {
       "id": "distributed-sensing",
@@ -82,7 +78,7 @@
       "disclosure": "Restricted-detail overview",
       "summary": "Development-stage research in distributed sensing and edge intelligence.",
       "skills": ["DSP", "Sensing", "Edge intelligence", "Systems architecture"],
-      "boundary": "Only broad sensing and awareness context is disclosed. No validated performance, operational readiness, or active-response capability is claimed."
+      "boundary": "No validated performance, operational readiness, or active-response capability is claimed."
     },
     {
       "id": "quantum-challenge",
@@ -94,7 +90,7 @@
       "disclosure": "Generalized public overview",
       "summary": "Collaborative quantum-computing project work.",
       "skills": ["Quantum systems", "Collaboration", "Technical communication"],
-      "boundary": "Branding, unpublished challenge material, private code, and restricted project details are withheld."
+      "boundary": "Restricted project material is not published."
     },
     {
       "id": "ai-systems",
@@ -106,7 +102,7 @@
       "disclosure": "Generalized case study",
       "summary": "Structured AI-enabled workflows and reusable automation systems.",
       "skills": ["AI systems", "Automation", "Validation", "Traceability"],
-      "boundary": "Internal architecture, operating methods, business identities, source locations, and deployment-specific details are withheld.",
+      "boundary": "Private implementation details are not published.",
       "anchor": "ai-systems"
     },
     {
@@ -119,7 +115,7 @@
       "disclosure": "Generalized public overview",
       "summary": "Systems for organizing technical knowledge and producing controlled documentation.",
       "skills": ["Knowledge systems", "Technical production", "Documentation"],
-      "boundary": "Original project names, private source material, internal controls, and production methods are excluded."
+      "boundary": "Private implementation details are not published."
     },
     {
       "id": "computing-infrastructure",
@@ -131,7 +127,7 @@
       "disclosure": "Generalized public overview",
       "summary": "General technical research related to computing infrastructure and private deployment environments.",
       "skills": ["Computing infrastructure", "System design", "Technical research"],
-      "boundary": "Commercial models, clients, vendors, negotiations, credentials, and deployment details are omitted."
+      "boundary": "Private and commercial implementation details are not published."
     },
     {
       "id": "applied-ai-product",
@@ -143,7 +139,7 @@
       "disclosure": "Generalized public overview",
       "summary": "Applied product work focused on practical AI-enabled solutions.",
       "skills": ["AI products", "Automation", "Product strategy", "Technical delivery"],
-      "boundary": "Brand, market vertical, clients, pricing, contracts, sales information, credentials, and implementation methods are excluded."
+      "boundary": "Private and commercial implementation details are not published."
     },
     {
       "id": "private-technical-learning",
@@ -155,7 +151,7 @@
       "disclosure": "Restricted-detail overview",
       "summary": "Private environments for advanced technical study and project-based capability development.",
       "skills": ["Technical learning", "Project development", "Capability building"],
-      "boundary": "Course names, providers, syllabi, curriculum structures, labs, access details, and internal methods are withheld."
+      "boundary": "Restricted learning material is not published."
     },
     {
       "id": "portfolio-decision-support",
@@ -167,7 +163,7 @@
       "disclosure": "Restricted-detail overview",
       "summary": "A private decision-support environment for evaluating projects, risks, priorities, and execution choices.",
       "skills": ["Decision support", "Risk analysis", "Portfolio evaluation"],
-      "boundary": "Personal cases, private decision records, advisory methods, benchmark profiles, and model-development plans are withheld."
+      "boundary": "Private records and methods are not published."
     },
     {
       "id": "venture-learning",
@@ -179,7 +175,7 @@
       "disclosure": "Restricted-detail overview",
       "summary": "A private framework for studying project outcomes and extracting reusable decision patterns across initiatives.",
       "skills": ["Cross-project learning", "Pattern analysis", "Systems thinking"],
-      "boundary": "Venture identities, internal cases, transfer methods, pattern libraries, and model-readiness plans are withheld."
+      "boundary": "Private records and methods are not published."
     },
     {
       "id": "governance-memory",
@@ -191,7 +187,8 @@
       "disclosure": "Restricted-detail overview",
       "summary": "A private system for maintaining project continuity, source integrity, decisions, documentation, and controlled handoffs.",
       "skills": ["Governance", "Operating memory", "Documentation control"],
-      "boundary": "Internal project identity, department structures, source maps, permissions, schedules, partner information, and storage architecture are withheld."
+      "boundary": "Private records and implementation details are not published."
     }
-  ]
+  ],
+  "scope_note": "This file contains selected public project information for human and automated review."
 }
