@@ -1,14 +1,14 @@
-# Yuval Zalicha Portfolio Site v0.2.7 Candidate Deployment
+# Yuval Zalicha Portfolio Site v0.2.8 Candidate Deployment
 
-Public GitHub Pages portfolio presenting a focused silicon-photonics candidate profile together with a public-safe atlas of 21 major project families across four domains.
+Public GitHub Pages portfolio presenting a focused silicon-photonics candidate profile together with a curated public project allowlist.
 
 ## Public pages
 
 - `index.html`: portfolio home
 - `profile.html`: focused candidate profile
 - `cv.html`: public, print-friendly CV
-- `projects/index.html`: searchable and filterable project atlas
-- `evidence.html`: evidence, limitations, and disclosure model
+- `projects/index.html`: searchable and filterable selected-project atlas
+- `evidence.html`: evidence, limitations, and public allowlist model
 - `projects/*.html`: compatibility redirects to approved case-study anchors
 
 ## Machine-readable companions
@@ -18,12 +18,15 @@ Public GitHub Pages portfolio presenting a focused silicon-photonics candidate p
 - `data/project-atlas.json`
 - `data/project-atlas.md`
 
-## Public disclosure boundary
+## Public allowlist model
+
+The public site does not expose a complete internal project inventory.
 
 - Academic work may be named when public identification is appropriate.
-- Business initiatives, products, client-adjacent systems, and private learning programs use generalized titles only.
-- Provider names, course names, syllabi, private methods, commercial details, and internal operating records are withheld.
-- The AI systems case study communicates professional value without publishing private architecture or workflow methods.
+- Private systems, business initiatives, product concepts, client-adjacent work, and learning programs appear only through approved abstractions or remain omitted.
+- Redaction or anonymization does not create publication authority by itself.
+- Client identities, partner information, course names, providers, syllabi, private methods, commercial details, source locations, operating records, and storage architecture are withheld.
+- Every future addition or material expansion requires a new public-record review.
 
 ## Wording boundary
 
@@ -35,7 +38,7 @@ All public-facing content follows the external short-hyphen style. Em dashes and
 
 ## Privacy and disclosure
 
-The public site intentionally omits the telephone number, client identities, financial terms, contracts, credentials, internal project IDs, private source locations, restricted technical details, and unsupported claims. Machine-readable files mirror visible content and contain no hidden ranking instructions.
+The public site intentionally omits the telephone number, client identities, financial terms, contracts, credentials, internal project IDs, private source locations, restricted technical details, and unsupported claims. Machine-readable files mirror visible content and contain no hidden ranking instructions or hidden project inventory.
 
 ## Status
 
