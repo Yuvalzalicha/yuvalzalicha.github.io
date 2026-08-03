@@ -1,21 +1,43 @@
 {
   "site_name": "Yuval Zalicha Portfolio",
-  "version": "0.2.7-candidate",
+  "version": "0.2.8-candidate",
   "generated_at": "2026-08-03",
-  "status": "candidate_generalized_public_atlas_not_canonical",
+  "status": "candidate_public_allowlist_not_canonical",
   "repository": "Yuvalzalicha/yuvalzalicha.github.io",
-  "project_count": 21,
-  "category_counts": {"deep-tech": 6, "ai-systems": 6, "products": 5, "education": 4},
-  "detailed_case_studies": ["silicon-photonics", "experimental-optics", "quantum-error-sensitivity"],
-  "generalized_case_studies": ["ai-systems"],
+  "inventory_mode": "allowlist",
+  "public_domains": [
+    "deep-tech",
+    "applied-systems",
+    "governance"
+  ],
+  "detailed_case_studies": [
+    "silicon-photonics",
+    "experimental-optics",
+    "quantum-error-sensitivity"
+  ],
+  "generalized_case_studies": [
+    "ai-systems"
+  ],
   "public_cv": "print-friendly HTML derivative; telephone omitted",
-  "public_contact_fields": ["email", "linkedin", "github", "country"],
-  "machine_readable_files": ["data/candidate-profile.json", "data/candidate-profile.md", "data/project-atlas.json", "data/project-atlas.md"],
+  "public_contact_fields": [
+    "email",
+    "linkedin",
+    "github",
+    "country"
+  ],
+  "machine_readable_files": [
+    "data/candidate-profile.json",
+    "data/candidate-profile.md",
+    "data/project-atlas.json",
+    "data/project-atlas.md"
+  ],
   "public_disclosure": {
+    "selection_rule": "Only deliberately approved public records are included",
     "academic_work": "Named where appropriate",
-    "business_and_product_work": "Generalized and anonymized",
-    "private_learning_systems": "Generalized without course names, providers, syllabi, or internal methods",
-    "client_adjacent_work": "Anonymized without commercial or identifying details"
+    "business_and_product_work": "Generalized or omitted",
+    "client_adjacent_work": "Omitted unless exact public authority exists",
+    "private_learning_systems": "Generalized without course names, providers, syllabi, labs, or internal methods",
+    "future_additions": "Require a new public-record review"
   },
   "external_style": {
     "rule": "external-short-hyphen-style",
