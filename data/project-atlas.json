@@ -16,6 +16,8 @@
       "summary": "Academic eigenmode and FDTD modeling of silicon photonic devices.",
       "skills": ["Tidy3D", "FDTD", "Eigenmodes", "Python", "Photonic devices"],
       "boundary": "Academic simulation only; no fabrication, tape-out, PDK, or industrial PIC experience is claimed.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-silicon-photonics",
+      "case_study_url": "https://yuvalzalicha.github.io/projects/#silicon-photonics",
       "anchor": "silicon-photonics"
     },
     {
@@ -29,6 +31,8 @@
       "summary": "Course laboratory work in optics, lasers, detection, and quantum experiments.",
       "skills": ["Optical alignment", "Laser systems", "Modulation", "Fiber coupling", "Data analysis"],
       "boundary": "Course laboratory work is not presented as independent research or industrial characterization experience.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-experimental-optics",
+      "case_study_url": "https://yuvalzalicha.github.io/projects/#experimental-optics",
       "anchor": "experimental-optics"
     },
     {
@@ -42,6 +46,8 @@
       "summary": "Exploratory computational research on quantum-circuit error sensitivity.",
       "skills": ["Qiskit", "Python", "Quantum circuits", "Validation"],
       "boundary": "The work is not presented as demonstrated quantum error correction or logical-fidelity improvement.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-quantum-error-sensitivity",
+      "case_study_url": "https://yuvalzalicha.github.io/projects/#quantum-error-sensitivity",
       "anchor": "quantum-error-sensitivity"
     },
     {
@@ -54,7 +60,8 @@
       "disclosure": "Academic public overview",
       "summary": "Academic research and technical synthesis in quantum information.",
       "skills": ["Quantum information", "Research synthesis", "Technical writing"],
-      "boundary": "Restricted academic source material is not published."
+      "boundary": "Restricted academic source material is not published.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-quantum-information-research"
     },
     {
       "id": "nanophotonics-learning",
@@ -66,7 +73,8 @@
       "disclosure": "Academic public overview",
       "summary": "Academic learning and validated study-material production for nanophotonics.",
       "skills": ["Nanophotonics", "Learning systems", "Technical quality"],
-      "boundary": "Restricted academic source material is not published."
+      "boundary": "Restricted academic source material is not published.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-nanophotonics-learning"
     },
     {
       "id": "distributed-sensing",
@@ -78,7 +86,8 @@
       "disclosure": "Restricted-detail overview",
       "summary": "Development-stage research in distributed sensing and edge intelligence.",
       "skills": ["DSP", "Sensing", "Edge intelligence", "Systems architecture"],
-      "boundary": "No validated performance, operational readiness, or active-response capability is claimed."
+      "boundary": "No validated performance, operational readiness, or active-response capability is claimed.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-distributed-sensing"
     },
     {
       "id": "quantum-challenge",
@@ -90,7 +99,8 @@
       "disclosure": "Generalized public overview",
       "summary": "Collaborative quantum-computing project work.",
       "skills": ["Quantum systems", "Collaboration", "Technical communication"],
-      "boundary": "Restricted project material is not published."
+      "boundary": "Restricted project material is not published.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-quantum-challenge"
     },
     {
       "id": "ai-systems",
@@ -103,6 +113,8 @@
       "summary": "Structured AI-enabled workflows and reusable automation systems.",
       "skills": ["AI systems", "Automation", "Validation", "Traceability"],
       "boundary": "Private implementation details are not published.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-ai-systems",
+      "case_study_url": "https://yuvalzalicha.github.io/projects/#ai-systems",
       "anchor": "ai-systems"
     },
     {
@@ -115,7 +127,8 @@
       "disclosure": "Generalized public overview",
       "summary": "Systems for organizing technical knowledge and producing controlled documentation.",
       "skills": ["Knowledge systems", "Technical production", "Documentation"],
-      "boundary": "Private implementation details are not published."
+      "boundary": "Private implementation details are not published.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-knowledge-production"
     },
     {
       "id": "computing-infrastructure",
@@ -127,7 +140,8 @@
       "disclosure": "Generalized public overview",
       "summary": "General technical research related to computing infrastructure and private deployment environments.",
       "skills": ["Computing infrastructure", "System design", "Technical research"],
-      "boundary": "Private and commercial implementation details are not published."
+      "boundary": "Private and commercial implementation details are not published.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-computing-infrastructure"
     },
     {
       "id": "applied-ai-product",
@@ -139,7 +153,8 @@
       "disclosure": "Generalized public overview",
       "summary": "Applied product work focused on practical AI-enabled solutions.",
       "skills": ["AI products", "Automation", "Product strategy", "Technical delivery"],
-      "boundary": "Private and commercial implementation details are not published."
+      "boundary": "Private and commercial implementation details are not published.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-applied-ai-product"
     },
     {
       "id": "private-technical-learning",
@@ -151,7 +166,8 @@
       "disclosure": "Restricted-detail overview",
       "summary": "Private environments for advanced technical study and project-based capability development.",
       "skills": ["Technical learning", "Project development", "Capability building"],
-      "boundary": "Restricted learning material is not published."
+      "boundary": "Restricted learning material is not published.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-private-technical-learning"
     },
     {
       "id": "portfolio-decision-support",
@@ -163,7 +179,8 @@
       "disclosure": "Restricted-detail overview",
       "summary": "A private decision-support environment for evaluating projects, risks, priorities, and execution choices.",
       "skills": ["Decision support", "Risk analysis", "Portfolio evaluation"],
-      "boundary": "Private records and methods are not published."
+      "boundary": "Private records and methods are not published.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-portfolio-decision-support"
     },
     {
       "id": "venture-learning",
@@ -175,7 +192,8 @@
       "disclosure": "Restricted-detail overview",
       "summary": "A private framework for studying project outcomes and extracting reusable decision patterns across initiatives.",
       "skills": ["Cross-project learning", "Pattern analysis", "Systems thinking"],
-      "boundary": "Private records and methods are not published."
+      "boundary": "Private records and methods are not published.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-venture-learning"
     },
     {
       "id": "governance-memory",
@@ -187,7 +205,8 @@
       "disclosure": "Restricted-detail overview",
       "summary": "A private system for maintaining project continuity, source integrity, decisions, documentation, and controlled handoffs.",
       "skills": ["Governance", "Operating memory", "Documentation control"],
-      "boundary": "Private records and implementation details are not published."
+      "boundary": "Private records and implementation details are not published.",
+      "public_url": "https://yuvalzalicha.github.io/projects/#project-governance-memory"
     }
   ],
   "scope_note": "This file contains selected public project information for human and automated review."
