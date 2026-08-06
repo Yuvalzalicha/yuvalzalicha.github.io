@@ -9,6 +9,23 @@
   },
   "headline": "Electrical Engineering and Physics B.Sc. Candidate | Silicon Photonics | AI Systems & Automation",
   "summary": "Electrical Engineering and Physics B.Sc. candidate currently completing the final degree requirements, with academic project work in silicon photonics modeling and photonic-device simulation using Python and Tidy3D. Additional experience includes hands-on laboratory work in advanced electro-optics and quantum optics, plus practical work in AI systems, automation, and structured technical delivery.",
+  "career_focus": {
+    "primary_target": {
+      "domain": "Silicon photonics",
+      "level": "Junior",
+      "role_families": [
+        "Photonics simulation",
+        "Photonic-device modeling",
+        "Optical characterization and validation",
+        "Electro-optical integration"
+      ]
+    },
+    "adjacent_strengths": [
+      "Experimental optics",
+      "AI systems and automation",
+      "Technical documentation and validation"
+    ]
+  },
   "target_roles": [
     "Silicon Photonics Engineer",
     "Photonics Simulation Engineer",
@@ -56,6 +73,32 @@
       "Integration across development and documentation tools"
     ]
   },
+  "evidence_map": [
+    {
+      "area": "Silicon photonics modeling and simulation",
+      "context": "Completed academic project",
+      "claim_level": "Academic modeling and simulation",
+      "evidence_url": "https://yuvalzalicha.github.io/projects/#silicon-photonics"
+    },
+    {
+      "area": "Experimental and quantum optics",
+      "context": "Completed course laboratory work",
+      "claim_level": "Hands-on laboratory experience",
+      "evidence_url": "https://yuvalzalicha.github.io/projects/#experimental-optics"
+    },
+    {
+      "area": "AI systems and automation",
+      "context": "Ongoing independent systems work",
+      "claim_level": "Generalized public case study",
+      "evidence_url": "https://yuvalzalicha.github.io/projects/#ai-systems"
+    },
+    {
+      "area": "Quantum-circuit error sensitivity",
+      "context": "Ongoing exploratory research",
+      "claim_level": "Exploratory computational research",
+      "evidence_url": "https://yuvalzalicha.github.io/projects/#quantum-error-sensitivity"
+    }
+  ],
   "selected_projects": [
     {
       "title": "Silicon Photonics Modeling & Simulation",
@@ -95,6 +138,14 @@
   "additional_information": {
     "military_service": "Golani Reconnaissance Unit, IDF (2012-2015): infantry sniper and combat-team member; combat engineering and demolitions specialization.",
     "languages": ["Hebrew: native", "English: professional working proficiency"]
+  },
+  "public_sources": {
+    "profile": "https://yuvalzalicha.github.io/profile.html",
+    "cv": "https://yuvalzalicha.github.io/cv.html",
+    "candidate_json": "https://yuvalzalicha.github.io/data/candidate-profile.json",
+    "candidate_markdown": "https://yuvalzalicha.github.io/data/candidate-profile.md",
+    "project_atlas_json": "https://yuvalzalicha.github.io/data/project-atlas.json",
+    "project_atlas_markdown": "https://yuvalzalicha.github.io/data/project-atlas.md"
   },
   "scope_note": "This file mirrors the public professional profile and selected project information."
 }
