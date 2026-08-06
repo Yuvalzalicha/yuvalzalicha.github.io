@@ -14,6 +14,20 @@ Electrical Engineering and Physics B.Sc. Candidate | Silicon Photonics | AI Syst
 
 Electrical Engineering and Physics B.Sc. candidate currently completing the final degree requirements, with academic project work in silicon photonics modeling and photonic-device simulation using Python and Tidy3D. Additional experience includes hands-on laboratory work in advanced electro-optics and quantum optics, plus practical work in AI systems, automation, and structured technical delivery.
 
+## Career focus
+
+### Primary target
+
+- **Domain:** Silicon photonics
+- **Level:** Junior
+- **Role families:** Photonics simulation; photonic-device modeling; optical characterization and validation; electro-optical integration
+
+### Adjacent strengths
+
+- Experimental optics
+- AI systems and automation
+- Technical documentation and validation
+
 ## Target roles
 
 - Silicon Photonics Engineer
@@ -46,6 +60,7 @@ Selected academic signals:
 - Directional-coupler analysis and coupling-length calculation
 - Approximately 99.9% simulated transfer in the selected configuration
 - Optical resonator analysis including FSR, finesse, linewidth, phase, and Q
+- **Evidence:** https://yuvalzalicha.github.io/projects/#silicon-photonics
 
 ### Experimental optics
 
@@ -54,6 +69,7 @@ Selected academic signals:
 - AOM modulation
 - Optical alignment, fiber coupling, detection, data analysis, and technical reporting
 - Interferometry and quantum-optics experiments
+- **Evidence:** https://yuvalzalicha.github.io/projects/#experimental-optics
 
 ### AI systems and automation
 
@@ -62,15 +78,48 @@ Selected academic signals:
 - Validation and traceability
 - Version-controlled technical outputs
 - Integration across development and documentation tools
+- **Evidence:** https://yuvalzalicha.github.io/projects/#ai-systems
+
+### Quantum-circuit error sensitivity
+
+- Ongoing exploratory computational research
+- **Evidence:** https://yuvalzalicha.github.io/projects/#quantum-error-sensitivity
+
+## Selected projects
+
+- **Silicon Photonics Modeling & Simulation** | Completed academic project  
+  https://yuvalzalicha.github.io/projects/#silicon-photonics
+- **Experimental Optics & Quantum Laboratories** | Completed course laboratory work  
+  https://yuvalzalicha.github.io/projects/#experimental-optics
+- **AI Systems & Automation Architecture** | Ongoing independent systems work  
+  https://yuvalzalicha.github.io/projects/#ai-systems
+- **Quantum-Circuit Error-Sensitivity Research** | Ongoing exploratory research  
+  https://yuvalzalicha.github.io/projects/#quantum-error-sensitivity
 
 ## Professional experience
 
 **Chief of Staff, AST Cleantech | 2024-2025**  
 Coordinated engineering, operational, and vendor workflows for waste-to-energy projects; supported technical planning and cross-functional execution.
 
+## Technical skills
+
+- **Photonics:** Tidy3D Mode Solver, FDTD, eigenmode analysis, silicon waveguides, slot waveguides, directional couplers, optical resonators
+- **Programming and data:** Python, NumPy, pandas, Matplotlib, MATLAB, C, C++, Verilog
+- **AI and automation:** AI systems, automation, LLM systems, validation, traceability, Git, GitHub
+- **Engineering tools:** Cadence Virtuoso, LabVIEW, Qiskit (basic)
+
 ## Additional information
 
 **Military service:** Golani Reconnaissance Unit, IDF (2012-2015): infantry sniper and combat-team member; combat engineering and demolitions specialization.  
 **Languages:** Hebrew: native; English: professional working proficiency.
+
+## Public sources
+
+- Candidate profile: https://yuvalzalicha.github.io/profile.html
+- Public CV: https://yuvalzalicha.github.io/cv.html
+- Candidate JSON: https://yuvalzalicha.github.io/data/candidate-profile.json
+- Candidate Markdown: https://yuvalzalicha.github.io/data/candidate-profile.md
+- Project atlas JSON: https://yuvalzalicha.github.io/data/project-atlas.json
+- Project atlas Markdown: https://yuvalzalicha.github.io/data/project-atlas.md
 
 This document mirrors the public professional profile and selected project information.
