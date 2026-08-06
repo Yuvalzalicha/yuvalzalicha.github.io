@@ -1,0 +1,23 @@
+# Yuval Zalicha
+
+> Electrical Engineering and Physics B.Sc. candidate focused on silicon photonics, experimental optics, AI systems, and automation.
+
+## Candidate profile
+
+- [Profile](https://yuvalzalicha.github.io/profile.html)
+- [Public CV](https://yuvalzalicha.github.io/cv.html)
+- [Candidate JSON](https://yuvalzalicha.github.io/data/candidate-profile.json)
+- [Candidate Markdown](https://yuvalzalicha.github.io/data/candidate-profile.md)
+
+## Selected projects
+
+- [Project Atlas](https://yuvalzalicha.github.io/projects/)
+- [Project Atlas JSON](https://yuvalzalicha.github.io/data/project-atlas.json)
+- [Project Atlas Markdown](https://yuvalzalicha.github.io/data/project-atlas.md)
+
+## Evidence and scope
+
+- [Evidence and Scope](https://yuvalzalicha.github.io/evidence.html)
+- [Privacy Notice](https://yuvalzalicha.github.io/privacy.html)
+- [Accessibility Statement](https://yuvalzalicha.github.io/accessibility.html)
+- [Rights and Content Notice](https://yuvalzalicha.github.io/notice.html)
