@@ -20,7 +20,11 @@ Electrical Engineering and Physics B.Sc. candidate currently completing the fina
 
 - **Domain:** Silicon photonics
 - **Level:** Junior
-- **Role families:** Photonics simulation; photonic-device modeling; optical characterization and validation; electro-optical integration
+- **Role families:**
+  - Photonics simulation
+  - Photonic-device modeling
+  - Optical characterization and validation
+  - Electro-optical integration
 
 ### Adjacent strengths
 
